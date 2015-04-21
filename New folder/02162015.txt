@@ -1,0 +1,3 @@
+Implement connection pool in around 20lines
+Take care of sql injection in your project
+For password in project - Minimum use Salt and Hash or Hash Stretch
